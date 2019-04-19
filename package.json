@@ -1,6 +1,6 @@
 {
   "name": "object-detection-js",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": true,
   "dependencies": {
     "ml5": "^0.2.3",
